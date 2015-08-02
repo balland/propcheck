@@ -13,7 +13,7 @@ that goes into more details.
 
 ## Documentation
 
-The only documentation so far is this README file and the
+The only documentation so far is this README and the
 [API reference](http://www.dartdocs.org/documentation/propcheck/0.5.0/index.html#propcheck).
 
 ## Quick Start
